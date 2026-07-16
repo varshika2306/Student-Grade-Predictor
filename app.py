@@ -24,7 +24,8 @@ model = joblib.load(
 )
 
 df = pd.read_csv(
-    r"C:\Users\home\Downloads\archive\student_data.csv"
+    "student_data.csv"
+    
     
 )
 
